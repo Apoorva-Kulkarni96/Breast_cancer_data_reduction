@@ -13,7 +13,6 @@ Dimension Reduction of given Breast Cancer Data to carry out accurate analysis
 
 5 Implement Model
 
-6 Evaluation
 
 ### Tools used
 
